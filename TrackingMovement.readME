@@ -1,0 +1,13 @@
+##Bus Tracker/Location Marker
+Description
+-This is API driven bus route tracker that shows the route of a specific bus route
+-Also able to click to add markers to the map
+How to Run
+-Simply click to add a marker to the map
+RoadMap
+-Add hover ability to preview location at marker
+-Add ability to hold more than one new clickable marker
+-Pause route tracking
+Licensces
+-Maps by Mapbox
+-Free to use
